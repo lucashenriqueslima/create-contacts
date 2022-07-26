@@ -681,3 +681,56 @@ DevTools listening on ws://localhost:52216/devtools/browser/88840b3b-7726-4b55-9
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\STUDIO~1\AppData\Local\Temp\rust_mozprofileQBo6Ie\thumbnails) because it does not exist
 1658436833561	Marionette	INFO	Stopped listening on port 52225
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658491222635	geckodriver	INFO	Listening on 127.0.0.1:51058
+1658491228101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\STUDIO~1\\AppData\\Local\\Temp\\rust_mozprofilePzh0Hp"
+1658491229390	Marionette	INFO	Marionette enabled
+1658491229399	Marionette	INFO	Listening on port 51069
+WebDriver BiDi listening on ws://localhost:51059
+Read port: 51069
+1658491229868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:51059/devtools/browser/8edd5903-3d09-4c05-a73f-9473f7ab3b16
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\STUDIO~1\AppData\Local\Temp\rust_mozprofilePzh0Hp\thumbnails) because it does not exist
+1658491261211	Marionette	INFO	Stopped listening on port 51069
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658750422605	geckodriver	INFO	Listening on 127.0.0.1:58423
+1658750427716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58424" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\STUDIO~1\\AppData\\Local\\Temp\\rust_mozprofileLcFasl"
+1658750428742	Marionette	INFO	Marionette enabled
+1658750428747	Marionette	INFO	Listening on port 58437
+WebDriver BiDi listening on ws://localhost:58424
+Read port: 58437
+1658750428872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:58424/devtools/browser/c8fb18ad-4860-4e90-b735-0f42c09d05f2
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\STUDIO~1\AppData\Local\Temp\rust_mozprofileLcFasl\thumbnails) because it does not exist
+1658750606500	geckodriver	INFO	Listening on 127.0.0.1:58727
+1658750611798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58728" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\STUDIO~1\\AppData\\Local\\Temp\\rust_mozprofileNB68Pa"
+1658750612846	Marionette	INFO	Marionette enabled
+1658750612855	Marionette	INFO	Listening on port 58743
+WebDriver BiDi listening on ws://localhost:58728
+Read port: 58743
+1658750613375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:58728/devtools/browser/727d0641-8803-4574-b776-24b38b955337
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\STUDIO~1\AppData\Local\Temp\rust_mozprofileNB68Pa\thumbnails) because it does not exist
+1658750701954	Marionette	INFO	Stopped listening on port 58743
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658765490223	geckodriver	INFO	Listening on 127.0.0.1:52359
+1658765495962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52360" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\STUDIO~1\\AppData\\Local\\Temp\\rust_mozprofilez6YzkE"
+1658765496948	Marionette	INFO	Marionette enabled
+1658765496959	Marionette	INFO	Listening on port 52369
+WebDriver BiDi listening on ws://localhost:52360
+Read port: 52369
+1658765497347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52360/devtools/browser/6772ba76-c770-43a4-8dd2-72ea1cd7a8f0
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\STUDIO~1\AppData\Local\Temp\rust_mozprofilez6YzkE\thumbnails) because it does not exist
+1658765612289	Marionette	INFO	Stopped listening on port 52369
+[Parent 8412, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1658836822522	geckodriver	INFO	Listening on 127.0.0.1:50806
+1658836828048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\STUDIO~1\\AppData\\Local\\Temp\\rust_mozprofileZpItwY"
+1658836829150	Marionette	INFO	Marionette enabled
+1658836829156	Marionette	INFO	Listening on port 50816
+WebDriver BiDi listening on ws://localhost:50807
+Read port: 50816
+1658836829637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:50807/devtools/browser/f0d3c1f7-9587-4d4c-aa1d-0354e97f54c6
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\STUDIO~1\AppData\Local\Temp\rust_mozprofileZpItwY\thumbnails) because it does not exist
+1658836869606	Marionette	INFO	Stopped listening on port 50816
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

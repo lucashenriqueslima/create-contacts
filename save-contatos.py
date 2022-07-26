@@ -5,10 +5,11 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
+from datetime import datetime
 import time
 import os
 import pyautogui
-import requests
+from datetime import datetime
 
 profile = webdriver.FirefoxProfile(
     'C:/Users/Studio M/AppData/Roaming/Mozilla/Firefox/Profiles/jkbzpsw5.default-release')
@@ -30,8 +31,8 @@ driver.find_element(By.XPATH, "//*[contains(text(), 'importe os contatos')]").cl
 time.sleep(2)
 driver.find_element(By.XPATH, "//*[contains(text(), 'Selecionar arquivo')]").click()
 time.sleep(2)
-pyautogui.typewrite("C:\\Users\\Studio M\\Downloads\\contatos.csv")
-time.sleep(1)
+pyautogui.typewrite(f"C:\\Users\\Studio M\\Downloads\\contatos{datetime.today().strftime('%Y-%m-%d')}.csv")
+time.sleep(2)   
 pyautogui.press('enter')
 time.sleep(1)
 driver.find_elements(By.XPATH, "//*[contains(text(), 'Importar')]")[3].click()
